@@ -7,9 +7,6 @@
 3- run./start.sh
 
 # TODO
-
-1- Python script to automatically build a table of content
-
-2- Python script to automatically get content "tags" and write is to header
+- Python script to automatically get content "tags" and write is to _Header.md
 
 
