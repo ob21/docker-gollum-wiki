@@ -1,6 +1,6 @@
 # docker-gollum-wiki
 
-## Installation of the server
+## Installation
 
 > sudo apt update
 
