@@ -27,7 +27,7 @@ Just open your borwser with : http://[serveur-ip]
 
 ## Todo
 
-- adaptive design (adapt to smartphone)
+- Adaptive design (adapt to smartphone)
 
 - Add authentication (https://github.com/gollum/gollum/wiki#authentication)
 
