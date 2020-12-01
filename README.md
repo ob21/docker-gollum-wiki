@@ -1,7 +1,9 @@
 # docker-gollum-wiki
 
 ## Installation of the server
-sudo apt update
+
+> sudo apt update
+
 sudo apt install cockpit
 sudo apt install docker.io
 sudo apt install git
