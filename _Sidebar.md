@@ -1,2 +1,2 @@
-**Contenu**
+Sidebar
 [[_TOC_]]
