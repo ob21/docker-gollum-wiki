@@ -1,0 +1,5 @@
+#!/bin/sh
+exec 1>>post_commit.log
+exec 2>&1
+exec git add *
+exec git push
