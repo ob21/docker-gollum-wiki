@@ -1,3 +1,1 @@
 - Gollum : basic wiki with markdown files in a Git repos
-- Outline : wiki
-- Wiki.js : wiki
